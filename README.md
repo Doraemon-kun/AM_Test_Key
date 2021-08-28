@@ -13,7 +13,7 @@ This is the list of features that the bot is currently supported:
   * Change prefix: Change the prefix that use in the bot.
 * Toolkit
   * Hello: Say hello to you
-  * Ping: Ping the bot and respond the latency
+  * Ping: Ping the bot and respond the latency require to connect to bot
 * Fun
   * Inspire yourself with famous quotes
 ---
